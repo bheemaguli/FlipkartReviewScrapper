@@ -1,7 +1,7 @@
 # FlipkartReviewScrapper
 
-# **Aim** : Extract Reviews from flipkart
-# **Process Workflow** : 
+## **Aim** : Extract Reviews from flipkart
+## **Process Workflow** : 
 ##### 1. Create flask landing page for search
 ##### 2. Get search query from the page
 ##### 3. Get web scrap of flipkart with the given query
